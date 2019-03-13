@@ -4,12 +4,19 @@
 
 
 2.-Install xampp pada device anda
+
 -buka aplikasi xampp
+
 -Jalankan apache dan MySQL dengan menekan tombol start
+
 -Buka browser anda lalu ketikkan http://localhost/phpmyadmin
+
 -Pada menu Database, silahkan masukkan nama database yang akan dibuat, kemudian tekan tombol Create
+
 -Setelah create akan muncul halaman untuk membuat tabel, masukkan nama tabel dan jumlah kolom yang diinginkan, lalu tekan GO
+
 -Kemudian akan lanjut ke halaman untuk membuat kolom database, masukkan nama kolom kemudian menentukan type data dan panjang karakter.Tentukan primary key juga
+
 -Jika sudah tekan save, maka database yang kita buat akan tersimpan
 
 
